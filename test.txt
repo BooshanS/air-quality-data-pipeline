@@ -1,0 +1,4 @@
+export JAVA_HOME="${HOME}/spark/jdk-11.0.1"
+export PATH="${JAVA_HOME}/bin:${PATH}"
+export SPARK_HOME="${HOME}/spark/spark-3.0.3-bin-hadoop3.2"
+export PATH="${SPARK_HOME}/bin:${PATH}"
