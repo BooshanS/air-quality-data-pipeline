@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: airquality
+    database: data-pipeline-404114
+    schema: air_quality_daily
+    tables:
+      - name: air_quality_india_daily
